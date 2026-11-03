@@ -43,4 +43,5 @@ To maintain enterprise-grade coding standards, every implementation follows thes
 * [ ] Implement and optimize fundamental Data Structures.
 * [ ] Achieve a milestone of daily consecutive code commits to build coding consistency.
 
-*Connect with me on **[linkedin.com/in/bhushan-dobale-834807257)** to discuss backend development, software architecture, and technology innovations!*
+*Connect with me on **[LinkedIn](https://www.linkedin.com/in/bhushan-dobale-834807257)** to discuss backend development, software architecture, and technology innovations!*
+
