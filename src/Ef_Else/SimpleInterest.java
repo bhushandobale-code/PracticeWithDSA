@@ -2,7 +2,7 @@ package Ef_Else;
 
 import java.util.Scanner;
 
-public class SimpleIntrest {
+public class SimpleInterest {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the Principle");
@@ -14,7 +14,7 @@ public class SimpleIntrest {
         if(p>0 && r>0 && t>0){
 
         double si = (p*r*t)/100;
-        System.out.println("Simple Intrest="+si);
+        System.out.println("Simple Interest ="+si);
     }else System.out.println("invalid value! value must be greater than 0");
     }
 }
