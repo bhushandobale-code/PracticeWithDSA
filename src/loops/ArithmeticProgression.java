@@ -13,6 +13,18 @@ public class ArithmeticProgression {
 //            System.out.println(i);
 //        }
         //logic 2 using first term and common difference
+//        System.out.print("Enter First term:");
+//        int a =sc.nextInt();
+//        System.out.print("Enter common Difference:");
+//        int d =sc.nextInt();
+//        System.out.print("Enter Number of Terms (n):");
+//        int n=sc.nextInt();
+//        for(int i=1;i<=n;i++){
+//            System.out.print(a+" ");
+//            a+=d;
+//        }
+
+        // logic 3 for decreasing AP
         System.out.print("Enter First term:");
         int a =sc.nextInt();
         System.out.print("Enter common Difference:");
@@ -21,7 +33,8 @@ public class ArithmeticProgression {
         int n=sc.nextInt();
         for(int i=1;i<=n;i++){
             System.out.print(a+" ");
-            a+=d;
+            a-=d;
         }
+
     }
 }
