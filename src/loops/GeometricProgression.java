@@ -18,7 +18,7 @@ public class GeometricProgression {
         int a=sc.nextInt();
         System.out.print("Enter Common Ratio:");
         int r =sc.nextInt();
-        System.out.print("Enter the Number of term");
+        System.out.print("Enter the Number of term:");
         int n= sc.nextInt();
         for(int i=1;i<=n;i++){
             System.out.print(a+" ");
